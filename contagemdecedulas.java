@@ -41,4 +41,5 @@ public class ContagemCedulas {
                 System.out.println(totalNotas[i] + " nota(s) de R$ " + notas[i] +",00");
             }
         }
-    
+    }
+}
